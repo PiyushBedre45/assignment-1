@@ -15,24 +15,22 @@ import WhyStudy from "@/components/Home/WhyStudy";
 
 export default function Home() {
   return (
-   <>
-  
-   <Herosection/>
-   <WhyStudy/>
-   <Univercity/>
-   <Whymedi/>
-   <Services/>
-   <Partner/>
-   <Testimonials/>
-   <Blog/>
-   <Galary/>
-   <Faq/>
-   
+    <>
 
-   <Contactus/>
-  
-   
-  
-   </>
+      <Herosection />
+      <WhyStudy />
+      <Univercity />
+      <Whymedi />
+      <Services />
+      <Partner />
+      <Testimonials />
+      <Blog />
+      <Galary />
+      <Faq />
+      <Contactus />
+
+
+
+    </>
   );
 }
