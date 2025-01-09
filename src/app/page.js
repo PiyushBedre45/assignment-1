@@ -16,7 +16,7 @@ import WhyStudy from "@/components/Home/WhyStudy";
 export default function Home() {
   return (
     <>
-
+      <h1>hi vedant</h1>
       <Herosection />
       <WhyStudy />
       <Univercity />
